@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">DicoGram</string>
+
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_explore">Explore</string>
+    <string name="menu_title_profile">Profile</string>
+
+    <string name="content_desc_capture_btn_back">Back to Home</string>
+    <string name="content_desc_capture_btn_gallery">Take image from gallery</string>
+    <string name="content_desc_capture_btn_switch">Switch Camera</string>
+    <string name="content_desc_capture_btn_shutter">Take a photo</string>
+    <string name="content_desc_story_image">Story image</string>
+    <string name="content_desc_app_logo">DicoGram Logo</string>
+    <string name="content_desc_btn_login">Log In</string>
+    <string name="content_desc_create_story_btn_back">Back to camera</string>
+    <string name="content_desc_detail_story_btn_back">Back to home</string>
+    <string name="content_desc_btn_add_story">Add Story</string>
+    <string name="content_desc_btn_refresh">Refresh Stories</string>
+    <string name="content_desc_fab_arrow">Arrow Right</string>
+
+    <string name="fixed_text_email">Email</string>
+    <string name="fixed_text_email_hint">user@email.com</string>
+    <string name="fixed_text_password">Password</string>
+    <string name="fixed_text_password_rule">min. 8 characters</string>
+    <string name="fixed_text_login">Login</string>
+    <string name="fixed_text_no_account">Don\'t have an account?</string>
+    <string name="fixed_text_register">Register</string>
+    <string name="fixed_text_desc">Description</string>
+    <string name="fixed_text_upload">Upload</string>
+    <string name="fixed_text_name">Name</string>
+    <string name="fixed_text_name_hint">Name Surname</string>
+    <string name="fixed_text_have_account">Already have an account?</string>
+    <string name="fixed_text_please_wait">Please Wait..</string>
+    <string name="fixed_text_story_detail">Story Detail</string>
+    <string name="fixed_text_upload_story">Upload Story</string>
+    <string name="fixed_text_log_out">Log Out</string>
+    <string name="fixed_text_account_log_out">Log Out of Account</string>
+    <string name="fixed_text_log_out_msg">Are you sure want to log out?</string>
+    <string name="fixed_text_cancel">Cancel</string>
+    <string name="fixed_text_yes">Yes</string>
+    <string name="fixed_text_choose_picture">Choose a Picture</string>
+    <string name="fixed_text_upload_dialog_title">Upload Story</string>
+    <string name="fixed_text_upload_story_msg">Are you sure want to upload this story? Uploaded story can\'t be deleted.</string>
+    <string name="fixed_text_no_stories">No Stories</string>
+    <string name="fixed_text_empty">Empty</string>
+    <string name="fixed_text_language">Language</string>
+    <string name="fixed_text_app_permission">App Permission</string>
+
+    <string name="dummy_name">Alexander Jamal</string>
+    <string name="dummy_date_detail_story">22/03/2023 17:00</string>
+    <string name="dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="dummy_date_item_story">20 hours ago</string>
+    <string name="dummy_email">alex.jamal@email.com</string>
+
+    <string name="ed_validation_password_error">Passwords must have at least 8 characters.</string>
+    <string name="ed_validation_email_error">Please enter a valid email address.</string>
+    <string name="ed_validation_blank_error">This Field is Required</string>
+    <string name="ed_email_hint">user@email.com</string>
+    <string name="ed_password_hint">min. 8 characters</string>
+
+    <string name="auth_error_invalid_email">Error: Email Already Exists.</string>
+    <string name="auth_error_invalid_credentials">Error: Credentials invalid. Please recheck your email and password.</string>
+    <string name="unexpected_error">Unexpected Error: Please check your internet connection.</string>
+
+    <string name="photo_error_choose_picture">Failed to choose picture.</string>
+    <string name="photo_error_show_camera">Failed to show camera.</string>
+    <string name="photo_success_story_uploaded">Story Uploaded</string>
+    <string name="photo_error_camera_access">Can\'t access camera. Check your permissions for this app.</string>
+    <string name="content_desc_no_stories">No Stories</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="date_just_now">just now</string>
+    <string name="date_minutes_ago">minutes ago</string>
+    <string name="date_hours_ago">hours ago</string>
+    <string name="date_days_ago">days ago</string>
+
+    <string name="retry">Retry</string>
+    <string name="fixed_text_show_my_location">Show My Location</string>
+    <string name="timeout">Timeout</string>
+    <string name="fixed_text_click_to_see_detail">Click To See Detail</string>
+</resources>

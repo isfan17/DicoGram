@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/story_navigation"
+    app:startDestination="@id/captureStoryFragment">
+
+    <fragment
+        android:id="@+id/captureStoryFragment"
+        android:name="com.isfan17.dicogram.ui.story.CaptureStoryFragment"
+        android:label="fragment_capture_story"
+        tools:layout="@layout/fragment_capture_story" >
+        <action
+            android:id="@+id/action_captureStoryFragment_to_createStoryFragment"
+            app:destination="@id/createStoryFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/createStoryFragment"
+        android:name="com.isfan17.dicogram.ui.story.CreateStoryFragment"
+        android:label="fragment_create_story"
+        tools:layout="@layout/fragment_create_story" >
+        <action
+            android:id="@+id/action_createStoryFragment_to_captureStoryFragment"
+            app:destination="@id/captureStoryFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+        <argument
+            android:name="imageFile"
+            app:argType="java.io.File" />
+        <argument
+            android:name="isBackCamera"
+            app:argType="integer"
+            android:defaultValue="0" />
+        <argument
+            android:name="imageUri"
+            app:argType="android.net.Uri"
+            app:nullable="true" />
+    </fragment>
+</navigation>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DicoGram</string>
+
+    <string name="menu_title_profile">Profil</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="menu_title_home">Home</string>
+
+    <string name="content_desc_capture_btn_back">Kembali ke Halaman Home</string>
+    <string name="content_desc_capture_btn_gallery">Ambil gambar dari gallery</string>
+    <string name="content_desc_capture_btn_switch">Ganti Kamera</string>
+    <string name="content_desc_capture_btn_shutter">Ambil foto</string>
+    <string name="content_desc_story_image">Foto Certia</string>
+    <string name="content_desc_app_logo">Logo Dicogram</string>
+    <string name="content_desc_btn_login">Gabung</string>
+    <string name="content_desc_create_story_btn_back">Kembali ke kamera</string>
+    <string name="content_desc_detail_story_btn_back">Kembali ke halaman home</string>
+    <string name="content_desc_btn_add_story">Tambah Certia</string>
+    <string name="content_desc_btn_refresh">Refresh Certia</string>
+
+    <string name="fixed_text_email">Email</string>
+    <string name="fixed_text_email_hint">user@email.com</string>
+    <string name="fixed_text_password">Password</string>
+    <string name="fixed_text_password_rule">min. 8 karakter</string>
+    <string name="fixed_text_login">Gabung</string>
+    <string name="fixed_text_no_account">Tidak punya akun?</string>
+    <string name="fixed_text_register">Daftar</string>
+    <string name="fixed_text_desc">Deskripsi</string>
+    <string name="fixed_text_upload">Unggah</string>
+    <string name="fixed_text_name">Nama</string>
+    <string name="fixed_text_name_hint">NamaDepan NamaBelakang</string>
+    <string name="fixed_text_have_account">Sudah memiliki akun?</string>
+    <string name="fixed_text_please_wait">Mohon tunggu..</string>
+    <string name="fixed_text_story_detail">Detail Certia</string>
+    <string name="fixed_text_upload_story">Unggah Cerita</string>
+    <string name="fixed_text_log_out">Keluar</string>
+    <string name="fixed_text_account_log_out">Keluar dari Akun</string>
+    <string name="fixed_text_log_out_msg">Apakah anda ingin keluar dari akun?</string>
+    <string name="fixed_text_cancel">Batal</string>
+    <string name="fixed_text_yes">Iya</string>
+    <string name="fixed_text_choose_picture">Pilih foto</string>
+    <string name="fixed_text_upload_dialog_title">Unggah Certia</string>
+    <string name="fixed_text_upload_story_msg">Apakah anda yakin ingin menggunggah cerita? Cerita yang sudah diunggah tidak dapat dihapus.</string>
+
+    <string name="dummy_name">Alexander Jamal</string>
+    <string name="dummy_date_detail_story">22/03/2023 17:00</string>
+    <string name="dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="dummy_date_item_story">20 jam yang lalu</string>
+    <string name="dummy_email">alex.jamal@email.com</string>
+
+    <string name="ed_validation_password_error">Password minimal memiliki 8 karakter.</string>
+    <string name="ed_validation_email_error">Mohon masukkan format email yang sesuai.</string>
+    <string name="ed_validation_blank_error">Bagian ini diperlukan</string>
+    <string name="ed_email_hint">user@email.com</string>
+    <string name="ed_password_hint">min. 8 karakter</string>
+
+    <string name="auth_error_invalid_email">Error: Email Sudah Dipakai.</string>
+    <string name="auth_error_invalid_credentials">Error: Email atau password tidak sesuai. Mohon periksa kembali.</string>
+    <string name="unexpected_error">Unexpected Error: Mohon periksa koneksi internet anda.</string>
+
+    <string name="photo_error_choose_picture">Gagal memilih foto.</string>
+    <string name="photo_error_show_camera">Gagal memunculkan kamera.</string>
+    <string name="photo_success_story_uploaded">Cerita Terunggah.</string>
+    <string name="photo_error_camera_access">Tidak bisa mengakses kamera. Cek kembali izin aplikasi anda.</string>
+    <string name="content_desc_no_stories">Tidak Ada Cerita.</string>
+    <string name="menu_title_explore">Eksplor</string>
+    <string name="fixed_text_no_stories">Tidak Ada Cerita.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Tambahkan widget.</string>
+    <string name="app_widget_description">Ini deskripsi widget</string>
+    <string name="fixed_text_empty">Kosong</string>
+    <string name="date_just_now">baru-baru ini</string>
+    <string name="date_minutes_ago">menit yang lalu</string>
+    <string name="date_hours_ago">jam yang lalu</string>
+    <string name="date_days_ago">hari yang lalu</string>
+    <string name="fixed_text_language">Bahasa</string>
+    <string name="fixed_text_app_permission">Izin Aplikasi</string>
+    <string name="content_desc_fab_arrow">Panah ke Kanan</string>
+
+</resources>
